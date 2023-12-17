@@ -2,7 +2,7 @@
 
 Task 1:
 
-# Landding page
+# Landing page
 
 Create an christmas cake landing page 
 🚀 Exciting Update from my Octanet Internship Journey! 🚀
